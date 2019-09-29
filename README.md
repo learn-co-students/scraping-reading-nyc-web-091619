@@ -496,15 +496,13 @@ image `src` attributes from a site!
 
 ## Resources
 
-* Scraping is a big topic, and it takes *a lot* of practice to get comfortable
-  doing it. The below resource is a great place to learn more about scraping and
-  even get some practice with simple examples. If you felt really confused by
-  this reading, we recommend checking it out before moving on.
-  * [*The Bastard's Book of Ruby* - Parsing HTML with Nokogiri](http://ruby.bastardsbook.com/chapters/html-parsing/)
+Scraping is a big topic, and it takes *a lot* of practice to get comfortable
+doing it. The below resource is a great place to learn more about scraping and
+even get some practice with simple examples. If you felt really confused by
+this reading, we recommend checking it out before moving on.
 
+* [*The Bastard's Book of Ruby* - Parsing HTML with Nokogiri](http://ruby.bastardsbook.com/chapters/html-parsing/)
 * [Video Review- Scraping and Object Orientation](https://www.youtube.com/watch?v=oXwdOdBUyCI)
-* [Nokogiri Installation Guide][]
-
-[Nokogiri Installation Guide]: http://www.nokogiri.org/tutorials/installing_nokogiri.html
+* [Nokogiri Installation Guide](http://www.nokogiri.org/tutorials/installing_nokogiri.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/scraping-reading'>Scraping</a> on Learn.co and start learning to code for free.</p>
